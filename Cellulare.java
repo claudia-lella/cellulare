@@ -1,4 +1,7 @@
 /*
+ * Questo esercizio è stato eseguito all'interno del corso di Generation Italy 
+ * con l'affiancamento di Accademia del Levante. Ogni diritto è riservato.
+ * 
  * Esercizio complesso
  * 
  * 23_06_12
